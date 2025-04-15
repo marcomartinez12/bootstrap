@@ -1,0 +1,11 @@
+.video-wrapper {
+    max-width: 800px; 
+    margin: 0 left; 
+  }
+  
+  .reduced-video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
